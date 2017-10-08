@@ -1,0 +1,44 @@
+Vine Circlet
+	3	13	6	N/A
+Iron Circlet
+	8	23	10	N/A
+Torture Cage
+	17	40	19	N/A
+Tribal Circlet
+	26	58	27	N/A
+Bone Circlet
+	34	73	34	N/A
+Lunaris Circlet
+	39	83	38	N/A
+Steel Circlet
+	48	101	46	N/A
+Necromancer Circlet
+	54	112	52	N/A
+Solaris Circlet
+	59	122	57	N/A
+Mind Cage
+  65, 138	69	N/A
+Hubris Circlet
+	69	154	76	N/A
+
+=================
+Rusted Coif
+	5	9	9	16	4	N/A
+Soldier Helmet
+	12	16	16	34	8	N/A
+Great Helmet
+	22	27	27	61	13	N/A
+Crusader Helmet
+	31	36	36	85	17	N/A
+Aventail Helmet
+	37	42	42	101	20	N/A
+Zealot Helmet
+	44	50	50	119	24	N/A
+Great Crown
+	53	59	59	143	28	N/A
+Magistrate Crown
+	58	64	64	160	31	N/A
+Prophet Crown
+	63	85	62	224	30	N/A
+Praetor Crown
+	68	62	91	161	48	N/A
