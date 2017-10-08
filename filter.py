@@ -31,7 +31,8 @@ delattr(block, 'itemClass')
 delattr(block, 'socketGroup')
 
 # Get rid of attributes for previous session, open file for each item
-file = open("helmets.txt","r")
+# Possibly going to get this from Poe Wiki API depending in what links did you choose
+file = open("~/src/helmets.txt","r")
 lines = file.readlines()
 for index in range(len(lines)):
     if lines[index][0].isalpha():

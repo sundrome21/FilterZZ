@@ -1,3 +1,5 @@
+import os
+
 class Program:
     socketColorBoTe = "255 255 255 255"
     socketColorBa = "77 87 152 255"
@@ -7,7 +9,10 @@ class Program:
     progColorElseBa = "0 0 0 255"
 
     def createFile(self):
-        setattr(self, 'f', open("filterZZ.filter", "w"))
+        filepath = os.path.join('~/dest', "filterZZ.filter")
+        if not os.path.exists('~/dest'):
+            os.makedirs('~/dest')
+        setattr(self, 'f', open(filepath, "w"))
 
     def addNewLine(self):
         self.f.write("\n\n")

@@ -1,0 +1,36 @@
+Wool Shoes
+	3	11	4	N/A
+Velvet Slippers
+	9	21	8	N/A
+Silk Slippers
+	22	42	15	N/A
+Scholar Boots
+	32	59	21	N/A
+Satin Slippers
+	38	69	25	N/A
+Samite Slippers
+	44	79	29	N/A
+Conjurer Boots
+	53	94	34	N/A
+Arcanist Slippers
+	61	119	45	N/A
+Sorcerer Boots
+	67	123	49	N/A
+
+============================
+Chain Boots
+	5	8	8	11	3	N/A
+Ringmail Boots
+	13	15	15	25	5	N/A
+Mesh Boots
+	28	28	28	51	10	N/A
+Riveted Boots
+	36	35	35	65	13	N/A
+Zealot Boots
+	40	38	38	73	14	N/A
+Soldier Boots
+	49	47	47	88	17	N/A
+Legion Boots
+	58	54	54	104	20	N/A
+Crusader Boots
+	64	62	62	121	24	N/A
